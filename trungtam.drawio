@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Course Lookup UI" id="ytbbwsA9wh_XHWWBFt3G">
+    <mxGraphModel dx="1050" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-1" value="Màn hình chính" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="180" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-2" value="X" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="QxJthNw4BgPlnqiwbD2V-1">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-3" value="≡" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" vertex="1" parent="QxJthNw4BgPlnqiwbD2V-1">
+          <mxGeometry x="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-4" value="TRA CỨU KHÓA HỌC" style="rounded=1;strokeWidth=1;fillColor=#ffffff;html=1;" vertex="1" parent="QxJthNw4BgPlnqiwbD2V-1">
+          <mxGeometry x="20" y="60" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-5" value="Màn hình danh sách khóa học" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="180" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-6" value="🔍 Search" style="rounded=1;strokeWidth=1;fillColor=#ffffff;html=1;" vertex="1" parent="QxJthNw4BgPlnqiwbD2V-5">
+          <mxGeometry x="10" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-7" value="[KH] Tên khóa học" style="rounded=1;strokeWidth=1;fillColor=#f5f5f5;html=1;" vertex="1" parent="QxJthNw4BgPlnqiwbD2V-5">
+          <mxGeometry x="10" y="50" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-8" value="[KH] Tên khóa học" style="rounded=1;strokeWidth=1;fillColor=#f5f5f5;html=1;" vertex="1" parent="QxJthNw4BgPlnqiwbD2V-5">
+          <mxGeometry x="10" y="100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-9" value="Màn hình chi tiết khóa học" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="180" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-10" value="KHÓA HỌC" style="text;align=center;verticalAlign=middle;html=1;" vertex="1" parent="QxJthNw4BgPlnqiwbD2V-9">
+          <mxGeometry x="10" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-11" value="Nội dung\nThời gian\nĐịa điểm\nHọc phí" style="rounded=1;strokeWidth=1;fillColor=#ffffff;html=1;" vertex="1" parent="QxJthNw4BgPlnqiwbD2V-9">
+          <mxGeometry x="10" y="50" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-12" value="&lt; Back" style="rounded=1;strokeWidth=1;fillColor=#eeeeee;html=1;" vertex="1" parent="QxJthNw4BgPlnqiwbD2V-9">
+          <mxGeometry x="10" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-13" style="endArrow=block;html=1;" edge="1" parent="1" source="QxJthNw4BgPlnqiwbD2V-1" target="QxJthNw4BgPlnqiwbD2V-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QxJthNw4BgPlnqiwbD2V-14" style="endArrow=block;html=1;" edge="1" parent="1" source="QxJthNw4BgPlnqiwbD2V-5" target="QxJthNw4BgPlnqiwbD2V-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

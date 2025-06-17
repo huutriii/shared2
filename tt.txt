@@ -1,0 +1,63 @@
+Câu 1: Các bên liên quan chính:
+
+Phụ huynh và học viên: Là người sử dụng ứng dụng để tra cứu thông tin, nhận thông báo, và đăng ký lớp học.
+
+Quản lý trung tâm: Người quản lý việc triển khai, giám sát, và đảm bảo hoạt động của ứng dụng.
+
+Giáo viên: Cung cấp thông tin về các lớp học và phản hồi tiến trình học tập của học viên.
+
+Đội ngũ IT: Phát triển và bảo trì ứng dụng, đảm bảo sự ổn định và tính bảo mật.
+
+Bộ phận tư vấn/CSKH: Hỗ trợ phụ huynh và học viên trong quá trình sử dụng ứng dụng và giải quyết các vấn đề phát sinh.
+
+Câu 1: Yêu cầu của các bên liên quan:
+
+Phụ huynh và học viên:
+
+Giao diện thân thiện, dễ sử dụng.
+
+Thông tin khóa học rõ ràng và chi tiết.
+
+Nhận thông báo nhanh chóng và kịp thời.
+
+Đăng ký lớp học dễ dàng và theo dõi trạng thái đăng ký.
+
+Quản lý trung tâm:
+
+Công cụ quản lý thông tin lớp học và học viên.
+
+Khả năng gửi thông báo đến phụ huynh và học viên một cách nhanh chóng.
+
+Báo cáo và phân tích dữ liệu học viên để đưa ra các quyết định quản lý.
+
+Giáo viên:
+
+Cập nhật lịch học, nội dung khóa học và tiến trình của học viên.
+
+Theo dõi và phản hồi về sự tham gia và kết quả học tập của học viên.
+
+Câu 3
+
+Change (Thay đổi):
+
+Giải pháp giúp thay đổi cách thức phụ huynh và học viên tra cứu và theo dõi thông tin khóa học từ thủ công sang tự động, tiện lợi và nhanh chóng.
+
+Need (Nhu cầu):
+
+Đáp ứng nhu cầu về việc tra cứu thông tin khóa học một cách dễ dàng, nhanh chóng và minh bạch.
+
+Solution (Giải pháp):
+
+Ứng dụng mobile với tính năng tra cứu khóa học dễ sử dụng, trực quan, và đầy đủ thông tin cần thiết.
+
+Stakeholders (Các bên liên quan):
+
+Phụ huynh, học viên, giáo viên, quản lý trung tâm và đội ngũ IT đều được tham gia và hưởng lợi từ giải pháp này.
+
+Value (Giá trị):
+
+Tăng cường sự hài lòng của phụ huynh và học viên, nâng cao hiệu quả quản lý và truyền thông của trung tâm.
+
+Context (Bối cảnh):
+
+Trung tâm cần một giải pháp số hóa để cạnh tranh và đáp ứng kỳ vọng ngày càng cao từ khách hàng trong môi trường giáo dục hiện đại.
